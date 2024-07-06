@@ -4,7 +4,6 @@ We are using Yoga82 Dataset [Link to Dataset](https://sites.google.com/view/yoga
 
 <br>
 We did the following things in the project.
-
 • Utilized the Yoga-82 Dataset with 28.4K yoga pose images, classifying them into hierarchical classes of 6, 20, and 82.
 <br>
 • Explored MediaPipe Library to detect Joints and engineered some features like Angles and Centorids of points in the body.
